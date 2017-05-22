@@ -4,8 +4,7 @@
       <meta charset="utf-8" />
       <title>RESUME - Manuel Lam, MD</title>
       <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-      <link rel="canonical" href="#" />
-      <meta property="og:locale" content="en_US" />
+\      <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="RESUME - Manny Lam, MD" />
       <meta property="og:description" content="PHYSICIAN Private Practice (07/2013 – present). Here I: Combine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, &amp; integrative medicine). Optimize the health of my patients by taking an exceptionally long medical history and combining this with the very latest laboratory testing to &hellip;" />
