@@ -13,7 +13,7 @@
       <meta property="og:image" content="#" />
       <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/mollymaloofmd.com\/","name":"Manny Lam, MD","potentialAction":{"@type":"SearchAction","target":"http:\/\/mollymaloofmd.com\/?s={search_term}","query-input":"required name=search_term"}}</script>
       <!-- / Yoast WordPress SEO plugin. -->
-      <link rel="alternate" type="application/rss+xml" title="Manny Lam, MD &raquo; RESUME Comments Feed" href="http://mollymaloofmd.com/resume/feed/" />
+      <link rel="alternate" type="application/rss+xml" title="Manny Lam, MD &raquo; RESUME Comments Feed"  />
       <script type="text/javascript">
          window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/mollymaloofmd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.15"}};
          !function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -52,11 +52,7 @@
       <link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://mollymaloofmd.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9' type='text/css' media='all' />
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-      <script type='text/javascript'>
-         /* <![CDATA[ */
-         var mashsb = {"shares":"0","round_shares":"","animate_shares":"0","share_url":"http:\/\/mollymaloofmd.com\/","title":"RESUME","image":"http:\/\/mollymaloofmd.com\/wp-content\/uploads\/2014\/10\/image0012.png","desc":"PHYSICIAN\r\n\r\n\r\n\tPrivate Practice (07\/2013 \u2013 present). Here I:\r\n\r\n\tCombine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, & integrative medicine).\r\n\tOptimize the health of my patients \u2026","hashtag":"","subscribe":"link","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1"};
-         /* ]]> */
-      </script>
+      
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=2.3.8'></script>
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mollymaloofmd.com/xmlrpc.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mollymaloofmd.com/wp-includes/wlwmanifest.xml" />
@@ -113,7 +109,7 @@
                   <ul id="main_header_menu" class="menu">
                      <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about.html">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
-                        <a href="http://mollymaloofmd.com/blog-2/">BLOG</a>
+                        <a>BLOG</a>
                         <ul class="sub-menu">
                            <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1.html">Our Body Composition</a></li>
                            <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2.html">Energy Utilization</a></li>
@@ -272,7 +268,7 @@
       <!--//footer_copyright_cont-->
       <script type="text/javascript"><!--
          wpa2a.targets=[
-         {title:'RESUME',url:'http://mollymaloofmd.com/'}];
+         {title:'RESUME',url:'http://themetabolichealthclinic.com/'}];
          wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
          //-->
       </script>
