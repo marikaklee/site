@@ -4,7 +4,7 @@
       <meta charset="utf-8" />
       <title>RESUME - Manuel Lam, MD</title>
       <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-\      <meta property="og:locale" content="en_US" />
+      <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="RESUME - Manny Lam, MD" />
       <meta property="og:description" content="PHYSICIAN Private Practice (07/2013 – present). Here I: Combine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, &amp; integrative medicine). Optimize the health of my patients by taking an exceptionally long medical history and combining this with the very latest laboratory testing to &hellip;" />
@@ -107,23 +107,17 @@
                <div class="header_menu">
                 
                   <ul id="main_header_menu" class="menu">
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about.html">ABOUT</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index.html">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
                            <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1.html">Our Body Composition</a></li>
                            <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2.html">Energy Utilization</a></li>
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3.html">The Glucose-Insulin Axis</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3.html">The Relationship Between Glucose &amp; Insulin</a></li>
                            <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4.html">Cardiovascular Health</a></li>
                         </ul>
                      </li>
-                     
-                     <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-229">
-                        <a href="contact.html">CONTACT</a>
-                        <ul class="sub-menu">
-                          
-                        </ul>
-                     </li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact.html">CONTACT</a></li>
                     
                   </ul>
                </div>
@@ -147,9 +141,9 @@
       </header>
       <!--//header-->
       <div class="header_spacing"></div>
-      ><div class="container">
+      <div class="container">
          <div class="logo_cont">
-            ><img src="images/name7.png" class="logo" alt="logo" /></a>
+            <img src="images/name7.png" class="logo" alt="logo"/>
          </div>
          <!--//logo_cont-->
          <div class="clear"></div><br>
