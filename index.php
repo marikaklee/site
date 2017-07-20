@@ -13,7 +13,7 @@
       <meta property="og:site_name" content="Manny Lam, MD" />
       <meta property="og:image" content="#" />
       <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/mollymaloofmd.com\/","name":"Manny Lam, MD","potentialAction":{"@type":"SearchAction","target":"http:\/\/mollymaloofmd.com\/?s={search_term}","query-input":"required name=search_term"}}</script>
-      <!-- / Yoast WordPress SEO plugin. -->
+      <!-- / Yoast WordPress SEO plugin. -->a
       <link rel="alternate" type="application/rss+xml" title="Manny Lam, MD &raquo; RESUME Comments Feed"  />
       <script type="text/javascript">
          window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/mollymaloofmd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.15"}};
@@ -109,25 +109,25 @@
          }
       </style>
    </head>
-   <body class="home page page-id-147 page-template-default">
+   <body class="home" page page-id-147 page-template-default">
       <header id="header">
          <div class="header_bottom">
             <div class="container">
                <div class="header_menu">
                 
                   <ul id="main_header_menu" class="menu">
-                      <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index">HOME</a></li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about">ABOUT</a></li>
+                      <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index" title ="home">HOME</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about" title="about">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1">Our Body Composition</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2">Energy Utilization</a></li>
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3">The Relationship Between Glucose &amp; Insulin</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4">Cardiovascular Health</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1" title="our-body-composition>Our Body Composition</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2" title="energy-utilization>Energy Utilization</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3" title="relationship-between-glucose-and-insulin">The Relationship Between Glucose &amp; Insulin</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4" title="cardiovascular-health>Cardiovascular Health</a></li>
                         </ul>
                      </li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact">CONTACT</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact" title="contact">CONTACT</a></li>
                     
                   </ul>
                </div>
