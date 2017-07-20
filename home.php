@@ -5,13 +5,13 @@
 <title>Manuel Lam, MD</title>
       <link rel="shortcut icon" type="images/clinic.png" href="images/clinic.png">
       <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-      <meta property="og:locale" content="en_US" />
+<meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" indexcontent="Manny Lam, MD" />
+      <meta property="og:title" homecontent="Manny Lam, MD" />
       <meta property="og:description" content="PHYSICIAN Private Practice (07/2013 – present). Here I: Combine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, &amp; integrative medicine). Optimize the health of my patients by taking an exceptionally long medical history and combining this with the very latest laboratory testing to &hellip;" />
-      <meta property="og:url" content="#" />
+      <meta property="og:url" content="" />
       <meta property="og:site_name" content="Manny Lam, MD" />
-      <meta property="og:image" content="#" />
+      <meta property="og:image" content="" />
       <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/mollymaloofmd.com\/","name":"Manny Lam, MD","potentialAction":{"@type":"SearchAction","target":"http:\/\/mollymaloofmd.com\/?s={search_term}","query-input":"required name=search_term"}}</script>
       <!-- / Yoast WordPress SEO plugin. -->
       <link rel="alternate" type="application/rss+xml" title="Manny Lam, MD &raquo; RESUME Comments Feed"  />
@@ -32,8 +32,16 @@
          background: none !important;
          padding: 0 !important;
          }
+
+         li {
+         margin-top: 10px;
+         margin-bottom: 10px;
+         font-size:150%;
+         }
+
       </style>
-      <link rel='stylesheet' id='contact-form-7-css'  href='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+
+      <link rel='stylesheet' id='contact.html-form-7-css'  href='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
       <link rel='stylesheet' id='mashsb-styles-css'  href='http://mollymaloofmd.com/wp-content/plugins/mashsharer/templates/mashsb.min.css?ver=2.3.8' type='text/css' media='all' />
       <style id='mashsb-styles-inline-css' type='text/css'>
          .mashsb-count {
@@ -101,36 +109,35 @@
          }
       </style>
    </head>
-   <body class="home page page-id-147 page-template-default">
+   <body class="home" page page-id-147 page-template-default">
       <header id="header">
          <div class="header_bottom">
             <div class="container">
                <div class="header_menu">
-                
-                  <ul id="main_header_menu" class="menu">
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index">HOME</a></li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about">ABOUT</a></li>
+                <ul id="main_header_menu" class="menu">
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com">HOME</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com/about">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1">Our Body Composition</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2">Energy Utilization</a></li>
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3">The Relationship Between Glucose &amp; Insulin</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4">Cardiovascular Health</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/our-body-composition">Our Body Composition</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuellam.com/energy-utilization">Energy Utilization</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/the-relationship-between-glucose-and-insulin">The Relationship Between Glucose &amp; Insulin</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuesimllam.com/cardiovascular-health">Cardiovascular Health</a></li>
                         </ul>
                      </li>
                      
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact">CONTACT</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com/contact">CONTACT</a></li>
                     
                   </ul>
                </div>
                <!--//header_menu--> 
                <div class="right">
                   <div class="header_social">
-                     <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=SSDQQG#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
+                     <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
                      <a href="https://twitter.com/drmannylam"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/twitter-icon.png" alt="twitter" /></a>
-                     <a href="https://www.facebook.com/mannylammy"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/facebook-icon.png" alt="facebook" /></a>
-                     <a href="https://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
+                     <a href="https://://www.facebook.com/mannylammy"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/facebook-icon.png" alt="facebook" /></a>
+                     <a href="https://://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
                      <div class="clear"></div>
                   </div>
                   <!--//header_social-->        
@@ -158,41 +165,40 @@
             <div id="single_cont">
                <div class="single_left">
                   <div class="single_inside_content">
+                     <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="" alt="image001" width="1024" height="743" /></p> -->
+                    
 
-                     <h1 style="font-size:30px; margin-bottom:40px; margin-top:40px;">Our Body Composition &amp; Energy Storage</h1>
+                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>ABOUT MY CLINIC</strong></h1>
+                     <p style = "font-size:200%">Welcome to my page. </p>
+                     <p>&nbsp;</p>
                      
-                     <p style="font-size:20px; margin-bottom:40px">Here is a list of biometrics that I would consider getting to track your progress when starting a new exercise regimen or a new strategy for your diet, like a ketogenic (or low carb high fat) diet or intermittent fasting.
-                     I split it into four main groups of metrics: (1) Energy storage, (2) Energy utilization, (3) Glucose-Insulin axis, (4) and Cardiovascular health. You can view the following 4 topics under my blogs section.</p>
-
-                     <p style="font-size:20px; margin-bottom:40px">The rough measurements are daily <strong>weight</strong> and weekly or monthly <strong>anthropometric</strong> measurements, such as <strong>waist, hip, thigh circumferences. </strong></p>
-                  
-
-                     <p style="font-size:20px; margin-bottom:40px"><strong>Daily weights.</strong> ‘Nuff said. Our weight is a broad measure of our total body mass, but it’s not the whole picture! Our body is composed (among other things) of muscle and adipose (fat) tissue. It can be particularly confusing when your weight stays the same, but you are actually losing an inch around your waist, and simultaneously, gaining lean muscle through exercise. So, don’t obsess over the number. All you can do is focus on progress. I have an electronic scale from Fitbit that sends my weight to my Fitbit app. I usually take this fasted in the mornings, after my morning routines, …like brushing my teeth. It’s nice to see the progress graphed over time.</p>
-
-
-                     <p style="font-size:20px; margin-bottom:40px"><strong>Monthly anthropometric measurements, such as waist, hip, thigh circumferences.</strong> Measure that beer belly, those love handles and them thunder thighs though. Men tend to have an “apple-shaped” distribution and gain weight in their gut region, whereas women tend to have a “pear-shaped” distribution and gain weight in their hips and thighs. Measure the <strong>circumference of your waist</strong> at the top of the hip and all the way around to your belly button, and measure the circumference of your hips and thighs. Wider waist circumferences are associated with higher mortality. </p>
-
-                     <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="images/blog1pic1.png" alt="image001" height="500px"/></p>
-                   
-                     <p style="font-size:20px; margin-bottom:40px">High intra-abdominal fat is associated with metabolic syndrome and insulin resistance, and greater waist-to-hip ratio is associated with 40% higher risk of shortened telomeres over the next 5 years. Buy a body tape measure off Amazon.com for $5. Measure it once in the beginning, and perhaps every week or month after that. You could be maintaining weight, but losing inches in your waist, thighs, or arms. </p>
-
-                     <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="images/blog1pic2.png" alt="image001" width="300px"/></p>
-                  
-                     <p style="font-size:20px; margin-bottom:40px"><strong>DEXA scans.</strong> There are multiple ways to measure your body fat percentage, such as using body fat calipers, multifrequency bioelectric impedance, water or air displacement. I won’t get into it here, because they vary in terms of accurancy, variability and impracticality. I would rather tell you about the new gold standard for measuring body fat percentage (dethroning water tank dunking, and short of autopsy), which is the <strong>DeXA scan, or dual-emission X-ray absorptiometry</strong>. Traditionally, it is used by doctors to measure the signal attenuation of bone to diagnose osteopenia. However, measuring the signal attenuation for fat and muscle is also a fairly accurate and precise method to measure body fat percentage and lean muscle mass! When I looked into it in years past, it was expensive (>$150) and required an MD’s prescription. However, with economies of scale, now it can cost $50–80 in the private sector (bay area!), without a doctor’s prescription.</p>
-
-                       <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="images/blog1pic3.png" alt="image001" height="500px"/></p>
-
-                     <p style="font-size:20px; margin-bottom:40px">You may be worried about the radiation. I did. Apparently it is equivalent to eating 4 bananas. (Apparently, any given banana contains about 45 micrograms of radioactive potassium. The more you know…) So, if you already eat bananas, you can consider getting a DEXA. How frequent? If you are trying something new (like changing your diet or exercise regimen) and do it consistently for 3 months, it may be interesting to get it at the beginning and track performance 3 months in. If you are not actively working on your metabolics, frequent and regular scans may be a waste of time, money, and bananas!</p>
-
                      </div>
-                  </div>
+                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>BOOK AN APPOINTMENT</strong></h1>
+
+               <script type="text/javascript">
+
+               new function() {
+                   var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                   html += '<div class="schedulicity-embed">';
+                   html += '<iframe src="https://://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
+                   html += '</div>';
+                   html += '<div class="schedulicity-embed-mobile">';
+                   html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
+                   html += '</div>';
+
+                   document.write(html);
+               }();
+               </script>
+
+               <p style="font-size:200%; margin-bottom:40px; margin-top:40px;"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Click here to open Schedulicity in a new window.</a></p>
+
                   <!--//single_inside_content-->
                   <br /><br />
                </div>
                <!--//single_left-->
                <div id="sidebar">
                   <div class="side_box">
-                     <div class="jetpack-image-container"><a target="_blank" href="#"><img src="images/manny.jpg" class="alignleft" height="500" /></a></div>
+                     <div class="jetpack-image-container"><a target="_blank" href=""><img src="images/manny.jpg" class="alignleft" height="500" /></a></div>
                   </div>
                   
                   
@@ -224,7 +230,7 @@
       <!--//footer_copyright_cont-->
       <script type="text/javascript"><!--
          wpa2a.targets=[
-         {title:'RESUME',url:'http://themetabolichealthclinic.com/blog '}];
+         {title:'RESUME',url:'http://themetabolichealthclinic.com/'}];
          wpa2a_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
          //-->
       </script>
@@ -240,13 +246,13 @@
             }
          }(document,"script","twitter-wjs");
       </script>
-      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
       <script type='text/javascript'>
          /* <![CDATA[ */
-         var _wpcf7 = {"loaderUrl":"http:\/\/mollymaloofmd.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+         var _wpcf7 = {"loaderUrl":"http:\/\/mollymaloofmd.com\/wp-content\/plugins\/contact.html-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
          /* ]]> */
       </script>
-      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
+      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/js/scripts.js?ver=4.2.1'></script>
       <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201720'></script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.10.0'></script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.10.0'></script>

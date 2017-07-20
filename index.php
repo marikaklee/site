@@ -7,13 +7,13 @@
       <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" indexcontent="Manny Lam, MD" />
+      <meta property="og:title" homecontent="Manny Lam, MD" />
       <meta property="og:description" content="PHYSICIAN Private Practice (07/2013 – present). Here I: Combine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, &amp; integrative medicine). Optimize the health of my patients by taking an exceptionally long medical history and combining this with the very latest laboratory testing to &hellip;" />
-      <meta property="og:url" content="#" />
+      <meta property="og:url" content="" />
       <meta property="og:site_name" content="Manny Lam, MD" />
-      <meta property="og:image" content="#" />
+      <meta property="og:image" content="" />
       <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/mollymaloofmd.com\/","name":"Manny Lam, MD","potentialAction":{"@type":"SearchAction","target":"http:\/\/mollymaloofmd.com\/?s={search_term}","query-input":"required name=search_term"}}</script>
-      <!-- / Yoast WordPress SEO plugin. -->a
+      <!-- / Yoast WordPress SEO plugin. -->
       <link rel="alternate" type="application/rss+xml" title="Manny Lam, MD &raquo; RESUME Comments Feed"  />
       <script type="text/javascript">
          window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/mollymaloofmd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.15"}};
@@ -41,7 +41,7 @@
 
       </style>
 
-      <link rel='stylesheet' id='contact-form-7-css'  href='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+      <link rel='stylesheet' id='contact.html-form-7-css'  href='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
       <link rel='stylesheet' id='mashsb-styles-css'  href='http://mollymaloofmd.com/wp-content/plugins/mashsharer/templates/mashsb.min.css?ver=2.3.8' type='text/css' media='all' />
       <style id='mashsb-styles-inline-css' type='text/css'>
          .mashsb-count {
@@ -114,30 +114,30 @@
          <div class="header_bottom">
             <div class="container">
                <div class="header_menu">
-                
-                  <ul id="main_header_menu" class="menu">
-                      <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index" title ="home">HOME</a></li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about" title="about">ABOUT</a></li>
+                <ul id="main_header_menu" class="menu">
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com">HOME</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com/about">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1" title="our-body-composition>Our Body Composition</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2" title="energy-utilization>Energy Utilization</a></li>
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3" title="relationship-between-glucose-and-insulin">The Relationship Between Glucose &amp; Insulin</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4" title="cardiovascular-health>Cardiovascular Health</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/our-body-composition">Our Body Composition</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuellam.com/energy-utilization">Energy Utilization</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/the-relationship-between-glucose-and-insulin">The Relationship Between Glucose &amp; Insulin</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuesimllam.com/cardiovascular-health">Cardiovascular Health</a></li>
                         </ul>
                      </li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact" title="contact">CONTACT</a></li>
+                     
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.manuellam.com/contact">CONTACT</a></li>
                     
                   </ul>
                </div>
                <!--//header_menu--> 
                <div class="right">
                   <div class="header_social">
-                     <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=SSDQQG#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
+                     <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
                      <a href="https://twitter.com/drmannylam"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/twitter-icon.png" alt="twitter" /></a>
-                     <a href="https://www.facebook.com/mannylammy"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/facebook-icon.png" alt="facebook" /></a>
-                     <a href="https://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
+                     <a href="https://://www.facebook.com/mannylammy"target="_blank"><img src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/images/facebook-icon.png" alt="facebook" /></a>
+                     <a href="https://://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
                      <div class="clear"></div>
                   </div>
                   <!--//header_social-->        
@@ -165,7 +165,7 @@
             <div id="single_cont">
                <div class="single_left">
                   <div class="single_inside_content">
-                     <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="#" alt="image001" width="1024" height="743" /></p> -->
+                     <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="" alt="image001" width="1024" height="743" /></p> -->
                     
 
                      <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>ABOUT MY CLINIC</strong></h1>
@@ -175,10 +175,10 @@
                      </div>
                      <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>BOOK AN APPOINTMENT</strong></h1>
 
-               <script type="text/javascript"">
+               <script type="text/javascript">
 
                new function() {
-                   var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-index: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                   var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
                    html += '<div class="schedulicity-embed">';
                    html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
                    html += '</div>';
@@ -190,7 +190,7 @@
                }();
                </script>
 
-               <p style="font-size:200%; margin-bottom:40px; margin-top:40px;"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=SSDQQG#/services">Click here to open Schedulicity in a new window.</a></p>
+               <p style="font-size:200%; margin-bottom:40px; margin-top:40px;"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Click here to open Schedulicity in a new window.</a></p>
 
                   <!--//single_inside_content-->
                   <br /><br />
@@ -198,7 +198,7 @@
                <!--//single_left-->
                <div id="sidebar">
                   <div class="side_box">
-                     <div class="jetpack-image-container"><a target="_blank" href="#"><img src="images/manny.jpg" class="alignleft" height="500" /></a></div>
+                     <div class="jetpack-image-container"><a target="_blank" href=""><img src="images/manny.jpg" class="alignleft" height="500" /></a></div>
                   </div>
                   
                   
@@ -246,13 +246,13 @@
             }
          }(document,"script","twitter-wjs");
       </script>
-      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
       <script type='text/javascript'>
          /* <![CDATA[ */
-         var _wpcf7 = {"loaderUrl":"http:\/\/mollymaloofmd.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+         var _wpcf7 = {"loaderUrl":"http:\/\/mollymaloofmd.com\/wp-content\/plugins\/contact.html-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
          /* ]]> */
       </script>
-      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
+      <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact.html-form-7/includes/js/scripts.js?ver=4.2.1'></script>
       <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201720'></script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.10.0'></script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.10.0'></script>
