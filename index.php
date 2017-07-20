@@ -2,11 +2,12 @@
 <html lang="en">
    <head>
       <meta charset="utf-8" />
-      <title>Manuel Lam, MD</title>
+<title>Manuel Lam, MD</title>
+      <link rel="shortcut icon" type="images/clinic.png" href="images/clinic.png">
       <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-      <meta property="og:locale" content="en_US" />
+<meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="RESUME - Manny Lam, MD" />
+      <meta property="og:title" indexcontent="Manny Lam, MD" />
       <meta property="og:description" content="PHYSICIAN Private Practice (07/2013 – present). Here I: Combine my investigative medical research skills with lessons learned from a variety of medical disciplines (i.e. biomedicine, evidence-based medicine, functional medicine, &amp; integrative medicine). Optimize the health of my patients by taking an exceptionally long medical history and combining this with the very latest laboratory testing to &hellip;" />
       <meta property="og:url" content="#" />
       <meta property="og:site_name" content="Manny Lam, MD" />
@@ -31,7 +32,15 @@
          background: none !important;
          padding: 0 !important;
          }
+
+         li {
+         margin-top: 10px;
+         margin-bottom: 10px;
+         font-size:150%;
+         }
+
       </style>
+
       <link rel='stylesheet' id='contact-form-7-css'  href='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
       <link rel='stylesheet' id='mashsb-styles-css'  href='http://mollymaloofmd.com/wp-content/plugins/mashsharer/templates/mashsb.min.css?ver=2.3.8' type='text/css' media='all' />
       <style id='mashsb-styles-inline-css' type='text/css'>
@@ -54,12 +63,12 @@
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
       
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=2.3.8'></script>
-      <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mollymaloofmd.com/xmlrpc.php?rsd" />
+      <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mollymaloofmd.com/xmlrpc?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mollymaloofmd.com/wp-includes/wlwmanifest.xml" />
       <meta name="generator" content="WordPress 4.2.15" />
-      <link rel='shortlink' href='http://wp.me/P5fD0j-2n' />
+
       <script type="text/javascript"><!--
-         var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+         var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
          //-->
       </script>
       <!-- Google Webmaster Tools plugin for WordPress -->
@@ -80,7 +89,7 @@
       <link href='http://fonts.googleapis.com/css?family=Lato:300,400,500,700,900' rel='stylesheet' type='text/css'>
       <!--[if lt IE 9]>
       <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-      <![endif]-->              		
+      <![endif]-->                  
       <link rel="stylesheet" href="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
       <!--[if IE]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -88,11 +97,11 @@
       <link rel="stylesheet" href="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/css/mobile.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
       <link rel="stylesheet" href="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/css/slicknav.css" />
       <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-      <!--	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>-->
+      <!--  <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>-->
       <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/jquery.infinitescroll.js"></script>
       <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/jquery.slicknav.js"></script>
       <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/retina-1.1.0.min.js"></script>
-      <!--	<script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/jquery.film_roll.min.js"></script>-->
+      <!--  <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/jquery.film_roll.min.js"></script>-->
       <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/jquery.carouFredSel-6.2.1.js"></script>
       <script src="http://mollymaloofmd.com/wp-content/themes/SquareBlogRes/js/scripts.js"></script>
       <style type="text/css">
@@ -107,22 +116,22 @@
                <div class="header_menu">
                 
                   <ul id="main_header_menu" class="menu">
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index.html">HOME</a></li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about.html">ABOUT</a></li>
+                      <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="index">HOME</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="about">ABOUT</a></li>
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1.html">Our Body Composition</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2.html">Energy Utilization</a></li>
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3.html">The Relationship Between Glucose &amp; Insulin</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4.html">Cardiovascular Health</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog1">Our Body Composition</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog2">Energy Utilization</a></li>
+                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="blog3">The Relationship Between Glucose &amp; Insulin</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="blog4">Cardiovascular Health</a></li>
                         </ul>
                      </li>
-                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact.html">CONTACT</a></li>
+                     <li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="contact">CONTACT</a></li>
                     
                   </ul>
                </div>
-               <!--//header_menu-->	
+               <!--//header_menu--> 
                <div class="right">
                   <div class="header_social">
                      <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=SSDQQG#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
@@ -131,7 +140,7 @@
                      <a href="https://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
                      <div class="clear"></div>
                   </div>
-                  <!--//header_social-->			
+                  <!--//header_social-->        
                   <div class="clear"></div>
                </div>
                <!--//right-->
@@ -139,7 +148,7 @@
             </div>
             <!--//container-->
          </div>
-         <!--//header_bottom-->	
+         <!--//header_bottom-->  
       </header>
       <!--//header-->
       <div class="header_spacing"></div>
@@ -150,82 +159,39 @@
          <!--//logo_cont-->
          <div class="clear"></div><br>
       </div>
-      <!--//container-->	
+      <!--//container-->   
       <div id="content">
          <div class="container">
             <div id="single_cont">
                <div class="single_left">
                   <div class="single_inside_content">
-
-
                      <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="#" alt="image001" width="1024" height="743" /></p> -->
-                     
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>PHYSICIAN</strong></h1>
-                     <ul>
-                        <li>
-                           <strong>Veterans Administration Palo Alto Health Care System</strong> (Jun 2015 – present) 
-                        </li>
-                        <li>
-                           <strong>Arbor Free Clinic</strong> (2017 – present)
-                        </li>
-                        <li>
-                           <strong>Palo Alto Medical Foundation</strong> (Sept 2013 – present)
-                        </li>
-                        <li>
-                           <strong>Crossover Health</strong> (Apr 2014 – present) 
-                        </li>
-                        <li>
-                           <strong>Stanford University Medical Center</strong> (Jun 2012 – Apr 2014)
-                        </li>
-                     </ul>
-    
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>CLINICAL INSTRUCTOR</strong></h1>
-                     <ul>
-                        <li>
-                           <strong>Stanford Hospital &amp; Clinics</strong> (Jun 2015 – present)
-                        </li>
-                     </ul>
-                   	 <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>MEDICAL ADVISOR</span></strong></h1>
-                     
-                     <ul>
-                        <li>
-                           <strong>Nootrobox</strong> (Dec 2016 – present)
-                        </li>
-                     </ul>
-                     <ul>
-                        <li>
-                           <strong>The Pill Club</strong> (Sept 2014 – present)
-                        </li>
-                     </ul>
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>RESEARCH FELLOW</span></strong></h1>
-                     <ul>
-                        <li>
-                            <strong>Massachusetts General Hospital (Doris Duke Clinical Research Fellow</strong> (Jun 2007 – May 2008)
-                        </li>
-                     </ul>
-                     <ul>
-                        <li>
-                            <strong>Doximity</strong> (Jun 2013 – Dec 2013)
-                        </li>
-                     </ul>
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>RESIDENT PHYSICIAN</strong></h1>
-                     <ul>
-                        <li>
-                            <strong>Stanford University Medical Center</strong> (Jun 2012 - Apr 2014)
-                        </li>
-                     </ul>
-                     
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>EDUCATION</strong></h1>
-                     <ul>
-                        <li><strong> Brown University</a>, <strong>MD, Medicine </strong></strong>(2008 - 2009)</li>
-                        <li><strong> Brown University</a>, <strong>Master of Medical Science, Biomedical Sciences, General </strong></strong>(2004 - 2009)</li>
-                        <li><strong> Brown University</a>, <strong>Bachelor of Arts, Computer Science </strong></strong>(2000 - 2004)</li>
-                     </ul>
+                    
 
+                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>ABOUT MY CLINIC</strong></h1>
+                     <p style = "font-size:200%">Welcome to my page. </p>
                      <p>&nbsp;</p>
                      
                      </div>
-                  </div>
+                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>BOOK AN APPOINTMENT</strong></h1>
+
+               <script type="text/javascript"">
+
+               new function() {
+                   var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-index: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                   html += '<div class="schedulicity-embed">';
+                   html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
+                   html += '</div>';
+                   html += '<div class="schedulicity-embed-mobile">';
+                   html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
+                   html += '</div>';
+
+                   document.write(html);
+               }();
+               </script>
+
+               <p style="font-size:200%; margin-bottom:40px; margin-top:40px;"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=SSDQQG#/services">Click here to open Schedulicity in a new window.</a></p>
+
                   <!--//single_inside_content-->
                   <br /><br />
                </div>
@@ -243,7 +209,7 @@
                   
                   
                </div>
-               <!--//sidebar-->			
+               <!--//sidebar-->        
                <div class="clear"></div>
             </div>
             <!--//single_cont-->
@@ -254,7 +220,7 @@
       <div class="footer_copyright_cont">
          <div class="footer_copyright">
             <div class="container">
-               © 2017 Manny Lam, MD All Rights Reserved		
+               © 2017 Manny Lam, MD All Rights Reserved     
                <div class="clear"></div>
             </div>
             <!--//container-->
@@ -265,19 +231,19 @@
       <script type="text/javascript"><!--
          wpa2a.targets=[
          {title:'RESUME',url:'http://themetabolichealthclinic.com/'}];
-         wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+         wpa2a_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
          //-->
       </script>
       <div style="display:none">
       </div>
       <script type="text/javascript">
          !function(d,s,id){
-         	var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-         	if(!d.getElementById(id)){
-         		js=d.createElement(s);
-         		js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
-         		fjs.parentNode.insertBefore(js,fjs);
-         	}
+            var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+            if(!d.getElementById(id)){
+               js=d.createElement(s);
+               js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+               fjs.parentNode.insertBefore(js,fjs);
+            }
          }(document,"script","twitter-wjs");
       </script>
       <script type='text/javascript' src='http://mollymaloofmd.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
