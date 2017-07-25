@@ -123,7 +123,7 @@
                            <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/our-body-composition">Our Body Composition</a></li>
                            <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuellam.com/energy-utilization">Energy Utilization</a></li>
                            <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/the-relationship-between-glucose-and-insulin">The Relationship Between Glucose &amp; Insulin</a></li>
-                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuesimllam.com/cardiovascular-health">Cardiovascular Health</a></li>
+                           <li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.manuellam.com/cardiovascular-health">Cardiovascular Health</a></li>
                         </ul>
                      </li>
                      
@@ -168,12 +168,12 @@
                      <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="" alt="image001" width="1024" height="743" /></p> -->
                     
 
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>ABOUT MY CLINIC</strong></h1>
+                     <h1><strong>ABOUT MY CLINIC</strong></h1>
                      <p style = "font-size:200%">Welcome to my page. </p>
                      <p>&nbsp;</p>
                      
                      </div>
-                     <h1 style="font-size:300%; margin-bottom:40px; margin-top:40px"><strong>BOOK AN APPOINTMENT</strong></h1>
+                     <h1><strong>BOOK AN APPOINTMENT</strong></h1>
 
                <script type="text/javascript">
 
