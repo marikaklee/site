@@ -39,10 +39,40 @@
             height: 1em !important;
             width: 1em !important;
             margin: 0 .07em !important;
-            vertical-align: -0.1em !important;
-            background: none !important;
-            padding: 0 !important;
          }
+            .title {
+            font-size: 100px;
+            font: georgia; 
+            color: black; 
+            
+         }    
+
+         .italic {
+            margin-bottom: 30px; 
+            font-family: 'Dancing Script';
+         }
+
+
+         @media only screen and (min-width : 0px) and (max-width : 800px) {
+            .title {
+               font-size:2.5em; 
+            }
+            .italic {
+               margin-top:20px; 
+               font-size: 1.5em;
+            }
+         }
+
+         @media only screen and (min-width : 800px) {
+               .title{
+                  margin-top: 150px
+                  font-size:6.5em;
+               }
+               .italic {
+                  margin-top:60px; 
+                  font-size:2.0em;
+               }
+         }  
 
          li {
             font-family:"Josefin Sans", arial, sans-serif;
@@ -266,9 +296,9 @@
       <!--//content-->
       <div class="footer_copyright_cont">
          <div class="footer_copyright">
-            <div class="container">
-               © 2017 Manuel Lam, MD All Rights Reserved<br>
-845 Oak Grove Suite 110 Menlo Park, CA 94025     
+           <div class="container">
+            845 Oak Grove Suite 110 Menlo Park, CA 94025<br>   
+               <strong>© 2017 Manuel Lam, MD All Rights Reserved</strong>
                <div class="clear"></div>
             </div>
             <!--//container-->

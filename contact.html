@@ -39,10 +39,40 @@
             height: 1em !important;
             width: 1em !important;
             margin: 0 .07em !important;
-            vertical-align: -0.1em !important;
-            background: none !important;
-            padding: 0 !important;
          }
+            .title {
+            font-size: 100px;
+            font: georgia; 
+            color: black; 
+            
+         }    
+
+         .italic {
+            margin-bottom: 30px; 
+            font-family: 'Dancing Script';
+         }
+
+
+         @media only screen and (min-width : 0px) and (max-width : 800px) {
+            .title {
+               font-size:2.5em; 
+            }
+            .italic {
+               margin-top:20px; 
+               font-size: 1.5em;
+            }
+         }
+
+         @media only screen and (min-width : 800px) {
+               .title{
+                  margin-top: 150px
+                  font-size:6.5em;
+               }
+               .italic {
+                  margin-top:60px; 
+                  font-size:2.0em;
+               }
+         }  
 
          li {
             font-family:"Josefin Sans", arial, sans-serif;
@@ -152,7 +182,7 @@
       <div class="container">
          <div class="logo_cont">
              <h1 style="font-size:1000%; font: georgia; color: black; margin-top: 150px">Manuel Lam, MD</h1>            
-            <i><h1 style="margin-top:70px; margin-bottom: 100px; font-family: 'Dancing Script'">Let food be thy medicine and medicine be thy food." -Hippocrates</h1></i>
+            <i><h1 style="margin-top:70px; margin-bottom: 30px; font-family: 'Dancing Script'">Let food be thy medicine and medicine be thy food." -Hippocrates</h1></i>
    
          </div>
          <!--//logo_cont-->
