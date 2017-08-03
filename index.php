@@ -44,7 +44,8 @@
             background: none !important;
             padding: 0 !important;
          }
-       li {
+
+                li {
             font-family:"Josefin Sans", arial, sans-serif;
             margin-top: 10px;
             margin-bottom: 10px;
@@ -168,11 +169,38 @@
                     
 
                      <h1><strong>ABOUT MY CLINIC</strong></h1>
-                     <p style = "font-size:200%">Welcome to my page. </p>
-                     <p style="font-size:120%; margin-bottom:40px; margin-left: 40px">
-                        845 Oak Grove Suite 110 
-                        Menlo Park, CA 94025</p>
-                     <table style="margin-top: 50px;">
+
+                    <p style="font-size:200%; margin-bottom:40px">
+                        <hr>                     
+                        <p style="font-size:120%; margin-left:40px">
+                           The causes of <strong>obesity</strong> and <strong>weight gain</strong> go far beyond the oversimplified paradigm of simply eating too much and moving too little.  We understand how hard it is to lose weight, and we know that it is complicated and multi-factorial.  There are many dozens of factors beyond simple diet and exercise that predispose, cause, and contribute to weight gain.  Some are internal, including genetic predisposition, hormonal imbalances, insulin resistance, and metabolism; and some are external, including medical conditions, medications, stress, sleep deprivation, cultural beliefs, and social influences.  As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.  
+                        </p>
+
+                        <p style="font-size:120%; margin-left:40px">
+                           Dr. Manuel Lam investigates and treats a wide range of <strong>weight-related medical conditions</strong>, including <strong>obesity, metabolic syndrome, diabetes, </strong>and <strong>high blood pressure</strong>.  He helps patients <strong>reduce their weight, lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, through nutritional and lifestyle strategies, <strong>while getting them <i>off</i> their prescription medications</strong>.  
+                        </p>    
+                     
+                     </div>
+                     <h1><strong><a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services"">BOOK AN APPOINTMENT</a></strong></h1>
+                      <br><br>
+
+                     <script style="margin-left:40px" type="text/javascript">
+                        new function() {
+                            var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                            html += '<div class="schedulicity-embed">';
+                            html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
+                            html += '</div>';
+                            html += '<div class="schedulicity-embed-mobile">';
+                            html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
+                            html += '</div>';
+
+                            document.write(html);
+                        }();
+                     </script><br>
+
+                     <h1><strong>HOURS</strong></h1>
+                     <hr>
+                     <table style="margin-top: 20px;">
                            <tr>
                            </tr>
                            <tr>
@@ -204,29 +232,10 @@
                               <td>Closed</td>
                           </tr>
                         </table>   
-                        
+                        <p style="font-size:120%; margin-left: 40px">
+                        845 Oak Grove Suite 110 
+                        Menlo Park, CA 94025</p>
 
-
-                     <p>&nbsp;</p>
-                     
-                     </div>
-                     <h1><strong>BOOK AN APPOINTMENT</strong></h1>
-
-                     <script style="margin-left:40px" type="text/javascript">
-                        new function() {
-                            var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
-                            html += '<div class="schedulicity-embed">';
-                            html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
-                            html += '</div>';
-                            html += '<div class="schedulicity-embed-mobile">';
-                            html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
-                            html += '</div>';
-
-                            document.write(html);
-                        }();
-                     </script>
-
-                  <p style="font-size:200%; margin-bottom:40px; margin-top:40px; margin-left: 40px"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Click here to open Schedulicity in a new window.</a></p>
 
                   <!--//single_inside_content-->
                   <br /><br />
