@@ -44,17 +44,16 @@
             background: none !important;
             padding: 0 !important;
          }
-
-         li {
+       li {
             font-family:"Josefin Sans", arial, sans-serif;
             margin-top: 10px;
             margin-bottom: 10px;
             font-size:150%;
          }
 
-         h1,h2,h3,h4,p,body,blockquote { 
+         h1,h2,h3,h4,p,body,blockquote,td,li { 
             font-family:"Josefin Sans", arial, sans-serif;
-         }
+         }        
 
          body {
            max-width:1000px;
@@ -62,22 +61,47 @@
            line-height:1.33em;
            margin:1em;
            background-color:#f7f7f7;
-           font-family:Source Sans Pro;
+           font-family: "Source Sans Pro";
            color:#361800;
-        }
+        }          
 
-          h1 {
+        h1 {
             font-size:300%; 
-            margin-bottom:40px; 
+            margin-bottom:20px; 
             margin-top:40px; 
+            margin-left: 40px;
+         }        
+
+         p, li{
+            margin-bottom:20px; 
+            margin-top:20px; 
+            margin-left: 40px;
+         }
+         
+         h2 {
+            margin-bottom:20px; 
+            margin-top:20px; 
+            margin-right:40px; 
+            margin-left: 20px;
+         }         
+
+         td {
+            font-size:150%;
+            width:150px;
+            height:30px;
+         }         
+
+         table {
+            margin-left: 40px;
+            font-size:80%;
+         }         
+
+         iframe {
             margin-left: 40px;
          }
 
-         p {
-            font-size:200%;
-            margin-bottom:40px; 
-            margin-top:40px; 
-            margin-left: 40px;
+         .menu-item-232 {
+            width:70px;
          }
 
 
@@ -145,27 +169,64 @@
 
                      <h1><strong>ABOUT MY CLINIC</strong></h1>
                      <p style = "font-size:200%">Welcome to my page. </p>
+                     <p style="font-size:120%; margin-bottom:40px; margin-left: 40px">
+                        845 Oak Grove Suite 110 
+                        Menlo Park, CA 94025</p>
+                     <table style="margin-top: 50px;">
+                           <tr>
+                           </tr>
+                           <tr>
+                              <td>Monday</td>
+                              <td>Closed</td>
+                           </tr>
+                           <tr>
+                              <td>Tuesday</td>
+                              <td>9am-5pm</td>
+                          </tr>
+                          <tr>
+                              <td>Wednesday</td>
+                              <td>9am-5pm</td>
+                          </tr>
+                          <tr>
+                              <td>Thursday</td>
+                              <td>Closed</td>
+                          </tr>
+                          <tr>
+                              <td>Friday</td>
+                              <td>9am-5pm</td>
+                          </tr>
+                          <tr>
+                              <td>Saturday</td>
+                              <td>Closed</td>
+                          </tr>
+                          <tr>
+                              <td>Sunday</td>
+                              <td>Closed</td>
+                          </tr>
+                        </table>   
+                        
+
+
                      <p>&nbsp;</p>
                      
                      </div>
                      <h1><strong>BOOK AN APPOINTMENT</strong></h1>
 
-               <script type="text/javascript">
+                     <script style="margin-left:40px" type="text/javascript">
+                        new function() {
+                            var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                            html += '<div class="schedulicity-embed">';
+                            html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
+                            html += '</div>';
+                            html += '<div class="schedulicity-embed-mobile">';
+                            html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
+                            html += '</div>';
 
-               new function() {
-                   var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
-                   html += '<div class="schedulicity-embed">';
-                   html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
-                   html += '</div>';
-                   html += '<div class="schedulicity-embed-mobile">';
-                   html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
-                   html += '</div>';
+                            document.write(html);
+                        }();
+                     </script>
 
-                   document.write(html);
-               }();
-               </script>
-
-               <p style="font-size:200%; margin-bottom:40px; margin-top:40px; margin-left: 40px"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Click here to open Schedulicity in a new window.</a></p>
+                  <p style="font-size:200%; margin-bottom:40px; margin-top:40px; margin-left: 40px"><a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Click here to open Schedulicity in a new window.</a></p>
 
                   <!--//single_inside_content-->
                   <br /><br />
