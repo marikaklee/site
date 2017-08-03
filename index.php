@@ -3,7 +3,11 @@
    <header>
       <meta charset="utf-8" />
       <title>Manuel Lam, MD</title>
+<<<<<<< HEAD
       <link rel="shortcut icon" href="images\favicon.ico">
+=======
+      <link rel="shortcut icon" type="images/clinic.png" href="images/clinic.png">
+>>>>>>> 7a7eb5f10013366b58712978ffeb1da5ba80a5f9
 
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
