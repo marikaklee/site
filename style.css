@@ -85,7 +85,6 @@
 
          .side_box, h3.side_title, .jetpack-image-container, iframe {
                text-align: center;
-
             }
 
          @media only screen and (max-width : 800px) {
@@ -128,3 +127,4 @@
                }  
          
          }  
+         
