@@ -3,6 +3,7 @@
    <header>
       <meta charset="utf-8" />
       <title>Manuel Lam, MD</title>
+      <link rel="shortcut icon" href="images\favicon.ico">
 
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
@@ -16,8 +17,7 @@
       <style type='text/css' media='screen'>
          
       </style>
-                                     <p style="font-size:120%; margin-left:40px">
-
+             
       <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
       <link rel="stylesheet" href="css/mobile.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
       <link rel="stylesheet" href="css/slicknav.css" />
@@ -79,9 +79,8 @@
       <div class="header_spacing"></div>
       <div class="container">
          <div class="logo_cont">
-             <h1 style="font-size:1000%; font: georgia; color: black; margin-top: 150px">Manuel Lam, MD</h1>            
-            <i><h1 style="margin-top:70px; margin-bottom: 50px; font-family: 'Dancing Script'">Let food be thy medicine and medicine be thy food." -Hippocrates</h1></i>
-   
+             <div class = "title">Manuel Lam, MD</div>    
+             <div class = "italic">Let food be thy medicine and medicine be thy food." -Hippocrates</div>       
          </div>
          <!--//logo_cont-->
          <div class="clear"></div><br>
@@ -96,9 +95,9 @@
                     
 
                      <h1><strong>ABOUT MY CLINIC</strong></h1>
-
+                      <hr>  
                     <p style="font-size:200%; margin-bottom:40px">
-                        <hr>                     
+                                           
                         <p style="font-size:120%;">
                            The causes of <strong>obesity</strong> and <strong>weight gain</strong> go far beyond the oversimplified paradigm of simply eating too much and moving too little.  We understand how hard it is to lose weight, and we know that it is complicated and multi-factorial.  There are many dozens of factors beyond simple diet and exercise that predispose, cause, and contribute to weight gain.  Some are internal, including genetic predisposition, hormonal imbalances, insulin resistance, and metabolism; and some are external, including medical conditions, medications, stress, sleep deprivation, cultural beliefs, and social influences.  As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.  
                         </p>
@@ -108,7 +107,8 @@
                         </p>    
                      
                      </div>
-                     <h1><strong><a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services"">BOOK AN APPOINTMENT</a></strong></h1>
+                     <h1><strong><a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services"">845APPOINTMENT</a></strong></h1>
+                      <hr>  
                       <br><br>
 
                      <script style="margin-left:40px" type="text/javascript">
