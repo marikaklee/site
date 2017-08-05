@@ -123,40 +123,6 @@
                         }();
                      </script><br>
 
-                     <h1><strong>HOURS</strong></h1>
-                     <hr>
-                     <table style="margin-top: 20px;">
-                           <tr>
-                           </tr>
-                           <tr>
-                              <td>Monday</td>
-                              <td>Closed</td>
-                           </tr>
-                           <tr>
-                              <td>Tuesday</td>
-                              <td>9am-5pm</td>
-                          </tr>
-                          <tr>
-                              <td>Wednesday</td>
-                              <td>9am-5pm</td>
-                          </tr>
-                          <tr>
-                              <td>Thursday</td>
-                              <td>Closed</td>
-                          </tr>
-                          <tr>
-                              <td>Friday</td>
-                              <td>9am-5pm</td>
-                          </tr>
-                          <tr>
-                              <td>Saturday</td>
-                              <td>Closed</td>
-                          </tr>
-                          <tr>
-                              <td>Sunday</td>
-                              <td>Closed</td>
-                          </tr>
-                        </table>   
                         <p style="font-size:120%;">
                         845 Oak Grove Suite 110 
                         Menlo Park, CA 94025</p>
