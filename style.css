@@ -158,7 +158,8 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 
     body {
-      text-align: center
+       margin-left: 10px;
+       margin-right: 10px;
     }
     .summary, li, ul {
       font-size:1.2em;
@@ -167,12 +168,12 @@ and (max-device-width : 480px) {
     .title, h1 {
       font-size:2.5em;
     }
-    .italic {
+    .italic, .container {
       font-size:.8em;
       margin-bottom: 10px; 
     }
 
-    img, iframe, .scheduler {
+    img, iframe, .scheduler, .twitter-timeline {
       display: none;
     }
 }
