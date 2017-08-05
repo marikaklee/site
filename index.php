@@ -104,20 +104,21 @@
                         </p>
                      </div>
 
+                     <div class="scheduler">
+                       <script style="margin-left:40px" type="text/javascript">
+                          new function() {
+                              var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
+                              html += '<div class="schedulicity-embed">';
+                              html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
+                              html += '</div>';
+                              html += '<div class="schedulicity-embed-mobile">';
+                              html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
+                              html += '</div>';
 
-                     <script style="margin-left:40px" type="text/javascript">
-                        new function() {
-                            var html = '<style>.schedulicity-embed-mobile { display: none; } .schedulicity-embed { position: relative; border: black 2px solid; background-color: white; width: 100%; max-width: 640px; } .schedulicity-embed > iframe { border: none; width: 100%; padding: 0; margin: 0; height: 480px; z-home: 1; } @media only screen and (max-width: 480px) { .schedulicity-embed { display: none; } .schedulicity-embed-mobile { display: block; } }</style>';
-                            html += '<div class="schedulicity-embed">';
-                            html += '<iframe src="https://www.schedulicity.com/scheduling/TMH5WJ?embed" allowtransparency="true" frameborder="0"></iframe>';
-                            html += '</div>';
-                            html += '<div class="schedulicity-embed-mobile">';
-                            html += '<a href="https://www.schedulicity.com/scheduling/TMH5WJ" target="_blank"><button style="cursor: pointer; background-color: #14aec9; font-size: 14pt; color: white; padding: 3px 6px; text-align: center; font-family: sans-serif; border: 1px solid #14aec9;">schedule now</button></a>';
-                            html += '</div>';
-
-                            document.write(html);
-                        }();
-                     </script><br>
+                              document.write(html);
+                          }();
+                       </script><br>
+                      </div>
                       
                   <!--//single_inside_content-->
                   <br /><br />
