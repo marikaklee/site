@@ -29,7 +29,7 @@
       <link href='https://fonts.googleapis.com/css?family=Dancing%20Script' rel='stylesheet'>      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-            <link rel = "stylesheet" type = "text/css" href = "style.css" />
+      <link rel = "stylesheet" type = "text/css" href = "style.css" />
 
    </header>
    <body class="home" page page-id-147 page-template-default">
@@ -91,16 +91,16 @@
                <div class="single_left">
                   <div class="single_inside_content">
 
-                        <p>
+                        <div class="summary">
                         Dr. Manuel Lam investigates for and treats <strong>metabolic syndrome</strong> and <strong>insulin resistance</strong>.  This includes a wide range of <strong>weight-related metabolic disorders</strong>, including <strong>obesity</strong>, <strong>prediabetes</strong>, <strong>diabetes</strong>, <strong>high blood pressure</strong>, <strong>high cholesterol</strong>, <strong>fatty liver</strong>, <strong>polycystic ovarian syndrome</strong>, <strong>Alzheimer’s</strong>, and <strong>cancer</strong>.  Progression to diabetes increases your risk of <strong>heart disease</strong>, <strong>stroke</strong>, <strong>peripheral vascular disease</strong> including <strong>amputations</strong>, <strong>kidney disease</strong> requiring <strong>dialysis</strong>, and <strong>blindness</strong>. 
-                        </p>
-                        <p>
+                        </div>
+                        <div class="summary">
                         We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  We understand that it is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>genetics</strong>, <strong>hormonal imbalances</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>.   As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
-                        </p>
-                        <p style="margin-bottom:40px">
+                        </div>
+                        <div class="summary">
                         Our program’s philosophy centers around <strong>nutritional</strong> and <strong>lifestyle</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>.  These strategies include <strong>personalized intermittent fasting protocols</strong>, <strong>education</strong> regarding <strong>eating whole natural nutrient dense foods</strong>, avoiding added sugars and refined grains, and increasing <strong>natural fats</strong>.  Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing.  Under his medical supervision, patients <strong>reduce their weight</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them <i>off</i> their prescription medications</strong>.  
-                        </p>
-                     </div>
+                        </div>                     
+                        </div>
 
                      <div class="scheduler">
                        <script style="margin-left:40px" type="text/javascript">
