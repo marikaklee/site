@@ -99,7 +99,7 @@
                         <p style="font-size:120%;">
                         We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  We understand that it is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>genetics</strong>, <strong>hormonal imbalances</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>.   As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
                         </p>
-                        <p style="font-size:120%;">
+                        <p style="font-size:120%; margin-bottom:40px">
                         Our program’s philosophy centers around <strong>nutritional</strong> and <strong>lifestyle</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>.  These strategies include <strong>personalized intermittent fasting protocols</strong>, <strong>education</strong> regarding <strong>eating whole natural nutrient dense foods</strong>, avoiding added sugars and refined grains, and increasing <strong>natural fats</strong>.  Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing.  Under his medical supervision, patients <strong>reduce their weight</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them <i>off</i> their prescription medications</strong>.  
                         </p>
                      </div>
@@ -118,12 +118,7 @@
                             document.write(html);
                         }();
                      </script><br>
-
-                        <p style="font-size:120%;">
-                        845 Oak Grove Suite 110 
-                        Menlo Park, CA 94025</p>
-
-
+                      
                   <!--//single_inside_content-->
                   <br /><br />
                </div>
