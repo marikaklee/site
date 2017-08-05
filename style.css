@@ -42,8 +42,7 @@
          }
 
          body {
-           max-width:1000px;
-           min-width:520px;
+           width:90%;
            line-height:1.33em;
            margin:1em;
            margin-left: 30px;
@@ -109,15 +108,13 @@
             top:1px;
           }
 
-
-
          @media only screen and (max-width : 800px) {
             .title {
-               font-size:4.3em; 
+               font-size:2.3em; 
             }
             .italic {
                margin-top:20px; 
-               font-size: 1.5em;
+               font-size: 1.1em;
             }
             .schedule {
                font-size:0%; 
@@ -156,13 +153,18 @@
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
-/* Styles */
+    .title {
+    font-size:3em;
+    }
+    .italic {
+      font-size:1em;
+    }
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen 
 and (min-width : 321px) {
-/* Styles */
+
 }
 
 /* Smartphones (portrait) ----------- */
