@@ -106,7 +106,7 @@
                         <strong>NEW PATIENT FORM</strong>
                         </a>
                      </p>
-                     
+
                      <p style="font-size:150%; margin-bottom:40px">
                         We appreciate your busy schedules and respect your time. Traditionally, our <strong>follow-up visits</strong> are scheduled on a <strong>weekly to monthly</strong> basis during the <strong>active treatment</strong> and <strong>weight loss period</strong> directly with Dr. Lam.  The frequency of follow up visits may be customized to be less frequent (for flexibility) or to be more often (for more accountability and intensity, such as in diabetics on hypoglycemic agents or insulin).  Once you have reached your goal weight, we will focus on <strong>weight maintenance</strong> and further space out your follow up visits.
                         We may safely <strong>adjust or remove current medications</strong> you are taking for diabetes or blood pressure.  
@@ -132,28 +132,22 @@
                         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
                      </div>
                      <script>
-                        var slideIndex = 1;
-                        showDivs(slideIndex);
-                        
-                        function plusDivs(n) {
-                          showDivs(slideIndex += n);
-                        }
-                        
-                        function showDivs(n) {
+                      var myIndex = 0;
+                      carousel();
+
+                      function carousel() {
                           var i;
                           var x = document.getElementsByClassName("mySlides");
-                          if (n > x.length) {slideIndex = 1}    
-                          if (n < 1) {slideIndex = x.length}
                           for (i = 0; i < x.length; i++) {
                              x[i].style.display = "none";  
                           }
-                          x[slideIndex-1].style.display = "block";  
-                        }
-                     </script>
-                     <p style="font-size:120%; margin-bottom:40px;">
-                        845 Oak Grove Suite 110 
-                        Menlo Park, CA 94025
-                     </p>
+                          myIndex++;
+                          if (myIndex > x.length) {myIndex = 1}    
+                          x[myIndex-1].style.display = "block";  
+                          setTimeout(carousel, 3000); // Change image every 2 seconds
+                      }
+                      </script>
+                    
                   </div>
                </div>
                <!--//single_inside_content-->
@@ -168,7 +162,8 @@
                   <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Book Appointment</a>
                </div>
                <div class="side_box">
-                  <p><strong>HOURS:</strong> TUE, WED, FRI 9AM-5PM</p>
+                  <p style="margin-bottom:5px"><strong>HOURS:</strong> TUE, WED, FRI 9AM-5PM</p>
+                  <p>845 Oak Grove Suite 110 Menlo Park, CA</p>
                </div>
                <div class="side_box">
                   <a class="twitter-timeline" data-height="500" href="https://twitter.com/drmannylam"></a> <script async src="//platform.twitter.com/widthdgets.js" charset="utf-8"></script><br><br>                     <iframe src="https://snapwidget.com/embed/414737" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:350px; height:390px"></iframe>  
@@ -185,8 +180,7 @@
       <div class="footer_copyright_cont">
          <div class="footer_copyright">
             <div class="container">
-               © 2017 Manuel Lam, MD All Rights Reserved<br>
-               845 Oak Grove Suite 110 Menlo Park, CA 94025     
+               © 2017 Manuel Lam, MD All Rights Reserved  
                <div class="clear"></div>
             </div>
             <!--//container-->

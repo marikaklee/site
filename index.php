@@ -92,7 +92,6 @@
                   <div class="single_inside_content">
 
                     <p style="font-size:150%; margin-bottom:40px">
-                        <hr> 
 
                         <p style="font-size:120%;">
                         Dr. Manuel Lam investigates for and treats <strong>metabolic syndrome</strong> and <strong>insulin resistance</strong>.  This includes a wide range of <strong>weight-related metabolic disorders</strong>, including <strong>obesity</strong>, <strong>prediabetes</strong>, <strong>diabetes</strong>, <strong>high blood pressure</strong>, <strong>high cholesterol</strong>, <strong>fatty liver</strong>, <strong>polycystic ovarian syndrome</strong>, <strong>Alzheimer’s</strong>, and <strong>cancer</strong>.  Progression to diabetes increases your risk of <strong>heart disease</strong>, <strong>stroke</strong>, <strong>peripheral vascular disease</strong> including <strong>amputations</strong>, <strong>kidney disease</strong> requiring <strong>dialysis</strong>, and <strong>blindness</strong>. 
@@ -104,8 +103,7 @@
                         Our program’s philosophy centers around <strong>nutritional</strong> and <strong>lifestyle</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>.  These strategies include <strong>personalized intermittent fasting protocols</strong>, <strong>education</strong> regarding <strong>eating whole natural nutrient dense foods</strong>, avoiding added sugars and refined grains, and increasing <strong>natural fats</strong>.  Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing.  Under his medical supervision, patients <strong>reduce their weight</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them <i>off</i> their prescription medications</strong>.  
                         </p>
                      </div>
-                     <h1><strong><a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services"">BOOK AN APPOINTMENT</a></strong></h1>
-                      <br><br>
+
 
                      <script style="margin-left:40px" type="text/javascript">
                         new function() {
@@ -136,8 +134,9 @@
                   </div>
 
                   <div class="side_box">
-                        <p><strong>HOURS:</strong> TUE, WED, FRI 9AM-5PM</p>
-                  </div>
+                  <p style="margin-bottom:5px"><strong>HOURS:</strong> TUE, WED, FRI 9AM-5PM</p>
+                  <p>845 Oak Grove Suite 110 Menlo Park, CA</p>
+               </div>
 
                   <div class="side_box">
                      <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Book Appointment</a>
@@ -163,9 +162,8 @@
       <!--//content-->
       <div class="footer_copyright_cont">
          <div class="footer_copyright">
-           <div class="container">
-            845 Oak Grove Suite 110 Menlo Park, CA 94025<br>   
-               <strong>© 2017 Manuel Lam, MD All Rights Reserved</strong>
+          <div class="container">
+               © 2017 Manuel Lam, MD All Rights Reserved
                <div class="clear"></div>
             </div>
             <!--//container-->
