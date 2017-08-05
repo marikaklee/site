@@ -61,7 +61,7 @@
                      <a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/servicestarget=_blank"target="_blank"><img src="images/schedule.png" alt="schedule" style="height:25px;"/></a>
                      <a href="https://twitter.com/drmannylam"target="_blank"><img src="images/twitter-icon.png" alt="twitter" /></a>
                      
-                     <a href="https://://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
+                     <a href="https://www.linkedin.com/in/manuel-lam-11478811"target="_blank"><img height="25px" src="images/linkedin.png" /></a>
                      <div class="clear"></div>
                   </div>
                   <!--//header_social-->        
@@ -90,21 +90,19 @@
             <div id="single_cont">
                <div class="single_left">
                   <div class="single_inside_content">
-                     <!-- <p style="text-align: left;"><img class="alignnone size-large wp-image-423" src="" alt="image001" width="1024" height="743" /></p> -->
-                    
-
-                     <h1><strong>ABOUT MY CLINIC</strong></h1>
 
                     <p style="font-size:150%; margin-bottom:40px">
-                        <hr>                     
-                        <p style="font-size:120%;">
-                           The causes of <strong>obesity</strong> and <strong>weight gain</strong> go far beyond the oversimplified paradigm of simply eating too much and moving too little.  We understand how hard it is to lose weight, and we know that it is complicated and multi-factorial.  There are many dozens of factors beyond simple diet and exercise that predispose, cause, and contribute to weight gain.  Some are internal, including genetic predisposition, hormonal imbalances, insulin resistance, and metabolism; and some are external, including medical conditions, medications, stress, sleep deprivation, cultural beliefs, and social influences.  As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.  
-                        </p>
+                        <hr> 
 
                         <p style="font-size:120%;">
-                           Dr. Manuel Lam investigates and treats a wide range of <strong>weight-related medical conditions</strong>, including <strong>obesity, metabolic syndrome, diabetes, </strong>and <strong>high blood pressure</strong>.  He helps patients <strong>reduce their weight, lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, through nutritional and lifestyle strategies, <strong>while getting them <i>off</i> their prescription medications</strong>.  
-                        </p>    
-                     
+                        Dr. Manuel Lam investigates for and treats <strong>metabolic syndrome</strong> and <strong>insulin resistance</strong>.  This includes a wide range of <strong>weight-related metabolic disorders</strong>, including <strong>obesity</strong>, <strong>prediabetes</strong>, <strong>diabetes</strong>, <strong>high blood pressure</strong>, <strong>high cholesterol</strong>, <strong>fatty liver</strong>, <strong>polycystic ovarian syndrome</strong>, <strong>Alzheimer’s</strong>, and <strong>cancer</strong>.  Progression to diabetes increases your risk of <strong>heart disease</strong>, <strong>stroke</strong>, <strong>peripheral vascular disease</strong> including <strong>amputations</strong>, <strong>kidney disease</strong> requiring <strong>dialysis</strong>, and <strong>blindness</strong>. 
+                        </p>
+                        <p style="font-size:120%;">
+                        We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  We understand that it is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>genetics</strong>, <strong>hormonal imbalances</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>.   As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
+                        </p>
+                        <p style="font-size:120%;">
+                        Our program’s philosophy centers around <strong>nutritional</strong> and <strong>lifestyle</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>.  These strategies include <strong>personalized intermittent fasting protocols</strong>, <strong>education</strong> regarding <strong>eating whole natural nutrient dense foods</strong>, avoiding added sugars and refined grains, and increasing <strong>natural fats</strong>.  Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing.  Under his medical supervision, patients <strong>reduce their weight</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them <i>off</i> their prescription medications</strong>.  
+                        </p>
                      </div>
                      <h1><strong><a href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services"">BOOK AN APPOINTMENT</a></strong></h1>
                       <br><br>
@@ -142,7 +140,7 @@
                   </div>
 
                   <div class="side_box">
-                     <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Schedule an appointment</a>
+                     <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Book Appointment</a>
                   </div>
                   
                   
