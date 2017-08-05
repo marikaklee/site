@@ -6,6 +6,8 @@
           html {
               display: table;
               margin: auto;
+              margin-right: 30px;
+              margin-left: 30px;
           }
 
          h1,h2,h3,h4,p,body,blockquote,td,li,.schedule, .button, .summary { 
@@ -169,11 +171,8 @@
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
 
-    body {
-       margin-right: 30px;
-    }
     .summary, li, ul {
-      font-size:1.0em;
+      font-size:0.8em;
     }
 
     .title{
