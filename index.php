@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <title>Clinic | Manuel Lam, MD</title>
+      <title>Home | Manuel Lam, MD</title>
       <link rel="shortcut icon" href="icon.png" />
       <meta property="og:image" content="images/manny.jpg"/>   
       <meta charset="utf-8" />      
@@ -98,7 +98,7 @@
                            <li><strong>Prediabetes</strong>, </li>
                            <li><strong>Diabetes</strong>, </li>
                            <li><strong>High blood pressure</strong>, </li>
-                           <li><strong>High cholesterol</strong>, and </li>
+                           <li><strong>high triglycerides</strong>, and </li>
                            <li><strong>Fatty liver</strong>.</li>
                         </ul>
                         </div>
@@ -139,7 +139,7 @@
                           }();
                        </script><br>
                       </div></center>
-                      
+
                   <!--//single_inside_content-->
                   <br /><br />
                </div>
@@ -153,13 +153,11 @@
                   <p style="margin-bottom:5px"><strong>HOURS:</strong> TUE, WED, FRI 9AM-5PM</p>
                   <p>845 Oak Grove Suite 110 Menlo Park, CA</p>
                </div>
-
                   <div class="side_box">
                      <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Book Appointment</a>
                      <p><a href="https://obesitymedicine.org/"><img src="images/oma.png" alt="oma" width="200px"/></a></p>
                   </div>
                   
-               
                   <div class="side_box">
                      <div class="twitter">
                         <a class="twitter-timeline" data-height="500" href="https://twitter.com/drmannylam">Tweets by drmannylam</a> <script async src="//platform.twitter.com/widthdgets.js" charset="utf-8"></script><br><br>
