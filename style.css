@@ -13,6 +13,7 @@ h1 {
     line-height: 40px;
     margin-bottom:30px;
     margin-top:30px;
+    margin-left:15px;
 }
 h2 {
     margin-bottom: 20px;
@@ -33,6 +34,7 @@ hr {
     border: none;
     height: 1px;
     background-color: #333;
+    margin:15px;
 }
 td {
     font-size: 120%;
