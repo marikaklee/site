@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-   <header>
-      <meta charset="utf-8" />
-      <title>Home | Manuel Lam, MD</title>
+   <head>
+<link rel="shortcut icon" href="icon.png" />
+      <meta property="og:image" content="images/manny.jpg"/>   </head>   <header>
+      <meta charset="utf-8" />      <title>Home | Manuel Lam, MD</title>
 
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
