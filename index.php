@@ -49,7 +49,7 @@
                      <li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-533">
                         <a>BLOG</a>
                         <ul class="sub-menu">
-                           <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/metrics-for-metabolic-fitness">Metrics For Metabolic Fitness</a></li>
+                        <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.manuellam.com/metrics-for-metabolic-fitness">Metrics For Metabolic Fitness</a></li>
                         </ul>
                      </li>
                      
