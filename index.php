@@ -156,6 +156,7 @@
 
                   <div class="side_box">
                      <a class="button" href="https://www.schedulicity.com/Scheduling/Default.aspx?business=TMH5WJ#/services">Book Appointment</a>
+                     <p><a href="https://obesitymedicine.org/"><img src="images/oma.png" alt="oma" width="200px"/></a></p>
                   </div>
                   
                
