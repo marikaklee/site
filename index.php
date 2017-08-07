@@ -94,11 +94,19 @@
                   <div class="single_inside_content">
 
                         <div class="summary">
-                        Dr. Manuel Lam investigates for and treats <strong>metabolic syndrome</strong>, <strong>hyperinsulinemia</strong>, and <strong>insulin resistance</strong>. This includes a wide range of <strong>weight-related metabolic disorders</strong>, including <strong>obesity</strong>, <strong>prediabetes</strong>, <strong>diabetes</strong>, <strong>high blood pressure</strong>, <strong>high cholesterol</strong>, <strong>fatty liver</strong>, <strong>polycystic ovarian syndrome</strong>, <strong>Alzheimer’s</strong>, and <strong>cancer</strong>.  Progression to diabetes increases your risk of <strong>heart disease</strong>, <strong>stroke</strong>, <strong>peripheral vascular disease</strong> including <strong>amputations</strong>, <strong>kidney disease</strong> requiring <strong>dialysis</strong>, and <strong>blindness</strong>. 
+                        Dr. Manuel Lam investigates for and treats a wide range of weight-related <strong>metabolic disorders</strong>.  This includes: 
+                        <ul>
+                           <li><strong>Obesity</strong>, </li>
+                           <li><strong>Prediabetes</strong>, </li>
+                           <li><strong>Diabetes</strong>, </li>
+                           <li><strong>High blood pressure</strong>, </li>
+                           <li><strong>High cholesterol</strong>, and </li>
+                           <li><strong>Fatty liver</strong>.</li>
+                        </ul>
                         </div>
 
                         <div class="summary">
-                        We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  We understand that it is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>genetics</strong>, <strong>hormonal imbalances</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>.   As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
+                        We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  It is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>hormonal imbalances</strong>, <strong>genetics</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>. As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
                         </div>
 
                         <div class="summary">
@@ -215,3 +223,5 @@
       </script>
    </body>
 </html>
+
+<!-- ********************* Created By Marika Lee ********************* -->
