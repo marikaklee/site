@@ -79,7 +79,7 @@
       <div class="container">
          <div class="logo_cont">
               <div class = "title">Manuel Lam, MD</div>    
-             <div class = "italic">Let food be thy medicine and medicine be thy food." -Hippocrates</div>       
+             <div class = "italic">"Let food be thy medicine and medicine be thy food." -Hippocrates</div>       
          </div>
          <!--//logo_cont-->
          <div class="clear"></div><br>
@@ -98,7 +98,7 @@
                            <li><strong>Prediabetes</strong>, </li>
                            <li><strong>Diabetes</strong>, </li>
                            <li><strong>High blood pressure</strong>, </li>
-                           <li><strong>high triglycerides</strong>, and </li>
+                           <li><strong>High triglycerides</strong>, and </li>
                            <li><strong>Fatty liver</strong>.</li>
                         </ul>
                         </div>
