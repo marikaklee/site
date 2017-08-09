@@ -90,9 +90,9 @@
                      <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
                      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-<!--                      <link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
+                     <link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
                      <form id="gform" method="POST" class="pure-form pure-form-stacked"
-                        action="https://script.google.com/macros/s/AKfycbwg4Om_-Y4zmepdrAUkXgYbkRm2DaOzORLinabIe53uK8tXpok/exec">
+                        action="https://script.google.com/macros/s/AKfycbwBXHsD4oz5Yw8iSVy3gwSgVRtzYODQw53mH0O56TZ5Rk2NpyM/exec">
                         <fieldset class="pure-group">
                            <label for="name">Full Name: </label>
                            <input id="name" name="name" required/>
@@ -107,28 +107,35 @@
                            <label for="phone">Phone Number: </label>
                            <input id="phone" name="phone"/>
                         </fieldset>
+                   <!--      <fieldset>
+                            <legend>Contact Preference</legend>
+                            <label for="radio">Email</label>
+                            <input type="radio" id="radio">
+                            <label for="radio">Phone</label>
+                            <input type="radio" id="radio">
+                          </fieldset> -->
                         <fieldset class="pure-group">
                            <label for="message">Message: </label>
                            <textarea id="message" name="message" rows="10" required></textarea>
                         </fieldset>
-                        <button class="button-success pure-button button-xlarge">
-                           <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
+                        <button class="button">
+                           <i class="fa fa-paper-plane"></i>&nbsp;Send
+                        </button>
                      </form>
                      <div style="display:none;" id="thankyou_message">
-                        <h1>Thanks for contacting us!
+                        <h1 style="margin-left: 30px">
+                           Thanks for contacting us!
                            We will get back to you soon!
                         </h1>
-                     </div> -->
+                     </div>
 
-
-                     <div class="summary" style="margin-top:80px; font-size:150%">Contact him at manuel.lam@gmail.com.</div>
                      <!-- Submit the Form to Google Using "AJAX" -->
                      <script data-cfasync="false" type="text/javascript"
                         src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
                      <!-- <script data-cfasync="false" type="text/javascript"
                         src="/form-submission-handler.js"></script> -->
                      <!-- END -->
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.402003037203!2d-122.18876538400922!3d37.45122927981967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa4baad9fef83%3A0x743cca64d13d9d25!2s845+Oak+Grove+Ave+%23110%2C+Menlo+Park%2C+CA+94025!5e0!3m2!1sen!2sus!4v1501722811866" width="600" height="450" frameborder="0" style="border:0; margin-top:50px; margin-left:15px" allowfullscreen></iframe>
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.402003037203!2d-122.18876538400922!3d37.45122927981967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa4baad9fef83%3A0x743cca64d13d9d25!2s845+Oak+Grove+Ave+%23110%2C+Menlo+Park%2C+CA+94025!5e0!3m2!1sen!2sus!4v1501722811866" width="600" height="450" frameborder="0" style="border:0; margin-top:100px; margin-left:15px;" allowfullscreen></iframe>
                      <!-- SnapWidget -->
                      <!-- <iframe src="https://snapwidget.com/embed/414737" class="snapwidget-widget"  allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:350px; height:390px"></iframe>
                         </p> -->                     
