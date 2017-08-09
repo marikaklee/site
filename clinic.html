@@ -90,10 +90,33 @@
                      <div class="summary" style="margin-bottom:50px; font-size: 20px">
                         <i>My mission is to restore you to optimal metabolic health, so you can live a long and healthy life, fulfilling your dreams and passions.</i>
                      </div>
-                     <hr>
-                     <h1><strong>Services</strong></h1>
+                     <div class="w3-content w3-display-container" style="margin-left:15px">
+                        <img class="mySlides" src="images/clinic3.png" style="width:100%">
+                        <img class="mySlides" src="images/clinic2.png" style="width:100%">
+                        <img class="mySlides" src="images/clinic1.png" style="width:100%">
+                        <img class="mySlides" src="images/clinic4.png" style="width:100%">
+                        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+                     </div>
+                     <script>
+                        var myIndex = 0;
+                        carousel();
+                        
+                        function carousel() {
+                            var i;
+                            var x = document.getElementsByClassName("mySlides");
+                            for (i = 0; i < x.length; i++) {
+                               x[i].style.display = "none";  
+                            }
+                            myIndex++;
+                            if (myIndex > x.length) {myIndex = 1}    
+                            x[myIndex-1].style.display = "block";  
+                            setTimeout(carousel, 3000); // Change image every 2 seconds
+                        }
+                     </script>
+                     <h1 style="margin-top:50px"><strong>Services</strong></h1>
                      <div class="summary">
-                        Your <strong>initial consultation</strong> will last 45-60 minutes so that Dr. Lam can formulate a <strong>personalized</strong>, prescription</strong> for <strong>treatment</strong> and <strong>weight loss</strong>, <strong>customized</strong> and <strong>tailored specifically</strong> to your needs. An <strong>initial consultation visit</strong> may include, if indicated: 
+                        Your <strong>initial consultation</strong> will last 60 minutes so that Dr. Lam can formulate a <strong>personalized</strong>, prescription</strong> for <strong>treatment</strong> and <strong>weight loss</strong>, <strong>customized</strong> and <strong>tailored specifically</strong> to your needs. An <strong>initial consultation visit</strong> may include, if indicated: 
                      </div>
                      
                      <ul>
@@ -125,42 +148,17 @@
                         <strong>NEW PATIENT FORM</strong>
                      </a>
                      </center>
-                     
+
                      <div class="summary">We appreciate your busy schedules and respect your time. Traditionally, our <strong>follow-up visits</strong> are scheduled on a <strong>weekly to monthly</strong> basis during the <strong>active treatment</strong> and <strong>weight loss period</strong> directly with Dr. Lam. The frequency of follow up visits may be customized to be less frequent (for flexibility) or to be more often (for more accountability and intensity).  For example, we may need to see patients with diabetics on hypoglycemic agents or insulin more frequently to adjust or remove medications, that could potentially put them at risk during a fasting protocol. Once you have reached your goal weight, we will focus on <strong>weight maintenance</strong> and further space out your follow up visits.</div>
                      
-                     <div class="summary">Did you know that most insurance plans do not cover visits primarily for weight loss? Therefore, we do not accept insurance at this time, and we can provide you a superbill for submission.  If losing weight is a <i>treatment</i> for a medically diagnosed disease (such as <strong>obesity</strong>, <strong>diabetes</strong>, or <strong>hypertension</strong>), your visits may be <strong>qualified medical expenses</strong>. Therefore, consider using your <strong>Health Savings Account</strong> or <strong>Flexible Spending Account</strong> debit cards. Please check with your tax accountant first. </div>
+                     <div class="summary">Most insurance plans do not cover visits primarily for weight loss. Therefore, we do not accept insurance at this time, but we can provide you a letter for the visit. If losing weight is a <i>treatment</i> for a medically diagnosed disease (such as <strong>obesity</strong>, <strong>diabetes</strong>, or <strong>hypertension</strong>), your visits may be <strong>qualified medical expenses</strong>. Therefore, consider using your <strong>Health Savings Account</strong> or <strong>Flexible Spending Account</strong> debit cards. Please check with your tax accountant first.</div>
 
-                     <div class="summary">You can still use your regular insurance for laboratory services (any Quest or Labcorp of your choice).  At this time, the monthly microbiome collection program is free of charge to you.abcorp of your choice). Please check with your tax accountant first.
+                     <div class="summary">You can still use your regular insurance for laboratory services (any Quest or Labcorp of your choice). At this time, the monthly microbiome collection program is free of charge to you. Please check with your tax accountant first.
                      </div>
 
                      <div class="summary">
                         Please <a href="mailto:manuel.lam@gmail.com">message us</a> to receive more information about these programs.
                      </div>
-
-                     <div class="w3-content w3-display-container" style="margin-left:15px">
-                        <img class="mySlides" src="images/clinic3.png" style="width:100%">
-                        <img class="mySlides" src="images/clinic2.png" style="width:100%">
-                        <img class="mySlides" src="images/clinic1.png" style="width:100%">
-                        <img class="mySlides" src="images/clinic4.png" style="width:100%">
-                        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-                     </div>
-                     <script>
-                        var myIndex = 0;
-                        carousel();
-                        
-                        function carousel() {
-                            var i;
-                            var x = document.getElementsByClassName("mySlides");
-                            for (i = 0; i < x.length; i++) {
-                               x[i].style.display = "none";  
-                            }
-                            myIndex++;
-                            if (myIndex > x.length) {myIndex = 1}    
-                            x[myIndex-1].style.display = "block";  
-                            setTimeout(carousel, 3000); // Change image every 2 seconds
-                        }
-                     </script>
                   </div>
                </div>
                <!--//single_inside_content-->
