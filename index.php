@@ -92,9 +92,10 @@
                   <div class="single_inside_content">
 
                         <div class="summary">
-                        Dr. Manuel Lam investigates for and treats a wide range of weight-related <strong>metabolic disorders</strong>.  This includes: 
+                        Dr. Manuel Lam investigates for and treats a wide range of weight-related <strong>metabolic disorders</strong>. This includes:
                         <ul>
-                           <li><strong>Obesity</strong>, </li>
+                           <li><strong>Overweight</strong>,</li>
+                           <li><strong>Obesity</strong>,</li>
                            <li><strong>Prediabetes</strong>, </li>
                            <li><strong>Diabetes</strong>, </li>
                            <li><strong>High blood pressure</strong>, </li>
@@ -105,11 +106,11 @@
                         </div>
 
                         <div class="summary">
-                        We understand that <strong>obesity</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  It is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>hormonal imbalances</strong>, <strong>genetics</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>. As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
+                       We understand that <strong>weight gain</strong> and <strong>metabolic syndrome</strong> goes far beyond the oversimplified paradigm of simply <i>eating too much</i> and <i>moving too little</i>.  It is complicated, and we seek to shed light on the unique challenges that each individual faces, including <strong>hormonal imbalances</strong>, <strong>genetics</strong>, <strong>gut microbiome</strong>, <strong>medications</strong>, <strong>stress</strong>, <strong>sleep</strong>, <strong>cultural</strong> and <strong>social influences</strong>. As a result, there is no one-size-fits-all intervention that will work for all people to achieve successful long-term weight loss.
                         </div>
 
                         <div class="summary">
-                        Our program considers the role that <strong>hormones</strong> (insulin, in particular) play in stimulating fat accumulation and obesity.  Therefore, our philosophy centers around <strong>nutritional ("food as medicine")</strong>, <strong>lifestyle</strong>, and <strong>medical</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>. These strategies include:
+                        Our program considers the role that <strong>hormones</strong> (insulin, in particular) play in stimulating fat accumulation and weight gain. Therefore, our philosophy centers around <strong>nutritional ("food as medicine")</strong>, <strong>lifestyle</strong>, and <strong>medical</strong> strategies that aim to <strong>lower insulin</strong>, <strong>reverse insulin resistance</strong>, and <strong>lose body fat</strong>. These strategies include:
                         <ul>
                            <li> <strong>Personalized intermittent fasting protocols</strong></li>
 
@@ -120,7 +121,7 @@
                            <li>Avoiding <strong>added sugars</strong>, <strong>starches and refined grains</strong></li>
                         </ul>
 
-                        <div class="summary">Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing. Under his medical supervision, patients <strong>reduce their weight</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them off their prescription medications</strong>.</div>
+                        <div class="summary">Dr. Lam provides <strong>contextual</strong> medical advice regarding pre-existing medical conditions, medications, and metabolic laboratory testing. Under his medical supervision, patients <strong>reduce their weight and body fat percentage</strong>, <strong>lower their blood pressure</strong> and <strong>reverse their type 2 diabetes</strong>, while <strong>getting them <i>off</i> their prescription medications</strong>.</div>
 
                         </div>                     
                         </div>
