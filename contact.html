@@ -120,14 +120,17 @@
                            <label for="location">Where You Are Contacting Me From (City &amp; State): </label>
                            <input id="location" name="location"/>
                         </fieldset>
-                        <!-- <fieldset>
+                        <fieldset>
                            <legend>Contact Preference</legend>
                            <input id="preference-phone" type="radio" class='radio-button' name='preference-phone'> Phone
                            <input id="preference-email" type="radio" class='radio-button' name='preference-email'> Email
                            <script>
-                              var allRadios = document.getElementsByName('preference');
+                              allRadios[0] = document.getElementsByName('preference-phone');
+                              allRadios[1] = document.getElementsByName('preference-email');
+
                               var booRadio;
                               var x = 0;
+
                               for(x = 0; x < allRadios.length; x++){
                                    allRadios[x].onclick = function(){
                                        if(booRadio == this){
@@ -140,12 +143,14 @@
                            }
                            </script>
                            <script>
-                              var category = "yes";
                               $("input[name='preference-phone']").click(function() {
-                                     category = this.value;
+                                     this.value = "PREFER PHONE!"
+                                 });
+                              $("input[name='preference-email']").click(function() {
+                                     this.value = "PREFER EMAIL!"
                                  });
                               </script>
-                        </fieldset> -->
+                        </fieldset>
                         <fieldset class="pure-group">
                            <label for="message">Message: </label>
                            <textarea id="message" name="message" rows="10" required></textarea>
