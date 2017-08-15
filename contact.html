@@ -88,7 +88,7 @@
                <div class="single_left">
                   <div class="single_inside_content">
 
-                     <aside style="margin-top:40px">
+                     <aside style="margin-top:30px; margin-bottom:30px">
                          <p>
                              Appointments by schedule only.  Please message us to receive more information about our programs.
                          </p>
@@ -101,12 +101,13 @@
                      <link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
                      <form id="gform" method="POST" class="pure-form pure-form-stacked"
                         action="https://script.google.com/macros/s/AKfycbwBXHsD4oz5Yw8iSVy3gwSgVRtzYODQw53mH0O56TZ5Rk2NpyM/exec">
+
                         <fieldset class="pure-group">
                            <label for="name">Full Name: </label>
                            <input id="name" name="name" required/>
                         </fieldset>
                         <fieldset class="pure-group">
-                           <label for="email">Your Email Address:</label>
+                           <label for="email">Email Address:</label>
                            <input id="email" name="email" type="email" value="" required/>
                            <span id="email-invalid" style="display:none">
                            Must be a valid email address</span>
@@ -115,20 +116,43 @@
                            <label for="phone">Phone Number: </label>
                            <input id="phone" name="phone"/>
                         </fieldset>
-                   <!--      <fieldset>
-                            <legend>Contact Preference</legend>
-                            <label for="radio">Email</label>
-                            <input type="radio" id="radio">
-                            <label for="radio">Phone</label>
-                            <input type="radio" id="radio">
-                          </fieldset> -->
+                        <fieldset class="pure-group">
+                           <label for="location">Where You Are Contacting Me From (City &amp; State): </label>
+                           <input id="location" name="location"/>
+                        </fieldset>
+                        <!-- <fieldset>
+                           <legend>Contact Preference</legend>
+                           <input id="preference-phone" type="radio" class='radio-button' name='preference-phone'> Phone
+                           <input id="preference-email" type="radio" class='radio-button' name='preference-email'> Email
+                           <script>
+                              var allRadios = document.getElementsByName('preference');
+                              var booRadio;
+                              var x = 0;
+                              for(x = 0; x < allRadios.length; x++){
+                                   allRadios[x].onclick = function(){
+                                       if(booRadio == this){
+                                           this.checked = false;
+                                   booRadio = null;
+                                       }else{
+                                       booRadio = this;
+                                       }
+                                   };
+                           }
+                           </script>
+                           <script>
+                              var category = "yes";
+                              $("input[name='preference-phone']").click(function() {
+                                     category = this.value;
+                                 });
+                              </script>
+                        </fieldset> -->
                         <fieldset class="pure-group">
                            <label for="message">Message: </label>
                            <textarea id="message" name="message" rows="10" required></textarea>
                         </fieldset>
-                        <button class="button">
+                        <a><button class="button">
                            <i class="fa fa-paper-plane"></i>&nbsp;Send
-                        </button>
+                        </button></a>
                      </form>
                      <div style="display:none;" id="thankyou_message">
                         <h1 style="margin-left: 30px">

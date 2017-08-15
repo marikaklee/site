@@ -68,6 +68,10 @@ li {
 .menu-item-232 {
     width: 70px;
 }
+label {
+  white-space: nowrap;
+}
+
 .side_box,
 h3.side_title,
 .jetpack-image-container,
