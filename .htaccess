@@ -1,4 +1,4 @@
 RewriteEngine On
-RewriteCond %{http://www.manuellam.com/} !-f
+RewriteCond %{http://www.menloweightloss.com/} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
